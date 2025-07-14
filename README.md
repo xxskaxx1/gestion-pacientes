@@ -1,24 +1,14 @@
-# pacientes
+# Sistema de Gestión de Pacientes
 
-## Project setup
-```
-npm install
-```
+## Descripción
+Aplicación web para gestión de pacientes con Vue.js que permite CRUD completo con validaciones, búsqueda y notificaciones.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Requisitos
+- Node.js v14+
+- npm v6+ o yarn
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Instalación
+1. Clonar repositorio:
+```bash
+git clone https://gitlab.com/SR1100/pacientes.git
+cd pacientes
