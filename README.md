@@ -9,7 +9,7 @@ Aplicación web para gestión de pacientes con Vue.js que permite CRUD completo 
 
 ## Instalación
 1. Clonar repositorio:
-git clone https://gitlab.com/SR1100/pacientes.git
+git clone https://github.com/xxskaxx1/gestion-pacientes.git
 cd pacientes
 
 2. Instalar dependencias:
